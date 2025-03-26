@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa; /* Világos háttérszín */
+  }
+  
+  h1 {
+    color: #343a40; /* Sötét szín a címhez */
+  }
+  
+  .navbar {
+    border-bottom: 2px solid #007bff; /* Kék szegély a navigációs sáv alatt */
+  }
+  
+  .nav-link {
+    font-weight: bold; /* Vastag betűtípus a navigációs linkekhez */
+    color: #007bff; /* Kék szín a linkekhez */
+  }
+  
+  .nav-link:hover {
+    color: #0056b3; /* Sötétebb kék szín hover állapotban */
+  }
+  
+  .container {
+    margin-top: 20px; /* Térköz a tartalom körül */
+  }
+  
+  .main-content {
+    padding: 20px; /* Térköz a fő tartalom körül */
+    background-color: #ffffff; /* Fehér háttér a fő tartalomhoz */
+    border-radius: 5px; /* Lekerekített sarkok */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Árnyék a fő tartalomhoz */
+  }
